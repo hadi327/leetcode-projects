@@ -4,11 +4,13 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -18,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Bit Manipulation
 |  |
