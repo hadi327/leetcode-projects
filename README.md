@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
+| [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0002-add-two-numbers) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
+| [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +102,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
