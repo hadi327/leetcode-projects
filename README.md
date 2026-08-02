@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
@@ -29,6 +30,7 @@
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -114,11 +116,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
