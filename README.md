@@ -12,6 +12,7 @@
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/hadi327/leetcode-projects/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hadi327/leetcode-projects/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Matrix
 |  |
