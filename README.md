@@ -64,6 +64,7 @@
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hadi327/leetcode-projects/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
+| [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
+| [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
