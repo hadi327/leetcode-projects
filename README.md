@@ -207,6 +207,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -215,4 +216,9 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
