@@ -76,6 +76,7 @@
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/hadi327/leetcode-projects/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hadi327/leetcode-projects/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hadi327/leetcode-projects/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
