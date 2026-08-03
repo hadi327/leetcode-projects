@@ -26,6 +26,7 @@
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hadi327/leetcode-projects/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hadi327/leetcode-projects/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting Sort
 |  |
 | ------- |
