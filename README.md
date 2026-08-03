@@ -13,6 +13,7 @@
 | [0605-can-place-flowers](https://github.com/hadi327/leetcode-projects/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/hadi327/leetcode-projects/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hadi327/leetcode-projects/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/hadi327/leetcode-projects/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 ## Design
