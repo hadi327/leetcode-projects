@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/hadi327/leetcode-projects/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
@@ -319,4 +320,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hadi327/leetcode-projects/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
