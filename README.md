@@ -50,6 +50,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hadi327/leetcode-projects/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -304,4 +307,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
