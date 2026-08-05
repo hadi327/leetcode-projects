@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/hadi327/leetcode-projects/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/hadi327/leetcode-projects/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/hadi327/leetcode-projects/tree/master/0283-move-zeroes) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/hadi327/leetcode-projects/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/hadi327/leetcode-projects/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
