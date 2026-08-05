@@ -244,6 +244,7 @@
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
 | [0872-leaf-similar-trees](https://github.com/hadi327/leetcode-projects/tree/master/0872-leaf-similar-trees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hadi327/leetcode-projects/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -255,11 +256,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hadi327/leetcode-projects/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hadi327/leetcode-projects/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
