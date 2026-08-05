@@ -83,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/hadi327/leetcode-projects/tree/master/0338-counting-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
@@ -220,6 +221,7 @@
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/hadi327/leetcode-projects/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/hadi327/leetcode-projects/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hadi327/leetcode-projects/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
