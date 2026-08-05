@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/hadi327/leetcode-projects/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/hadi327/leetcode-projects/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
@@ -148,6 +149,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
@@ -262,6 +264,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hadi327/leetcode-projects/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
