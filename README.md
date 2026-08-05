@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/hadi327/leetcode-projects/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/hadi327/leetcode-projects/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/hadi327/leetcode-projects/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/hadi327/leetcode-projects/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/hadi327/leetcode-projects/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
