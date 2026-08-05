@@ -104,6 +104,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0392-is-subsequence) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/hadi327/leetcode-projects/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -272,6 +274,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
