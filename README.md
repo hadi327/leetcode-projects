@@ -89,6 +89,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hadi327/leetcode-projects/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/hadi327/leetcode-projects/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -136,6 +137,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -153,6 +155,7 @@
 | [2542-maximum-subsequence-score](https://github.com/hadi327/leetcode-projects/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -267,6 +270,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -449,4 +453,8 @@
 | [1934-confirmation-rate](https://github.com/hadi327/leetcode-projects/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/hadi327/leetcode-projects/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hadi327/leetcode-projects/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
