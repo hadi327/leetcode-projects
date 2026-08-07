@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/hadi327/leetcode-projects/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -262,6 +263,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
@@ -296,6 +298,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/hadi327/leetcode-projects/tree/master/0283-move-zeroes) |
@@ -496,4 +499,8 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/1015-smallest-integer-divisible-by-k) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
