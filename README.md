@@ -115,6 +115,7 @@
 | [0006-zigzag-conversion](https://github.com/hadi327/leetcode-projects/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
@@ -182,6 +183,7 @@
 | [0001-two-sum](https://github.com/hadi327/leetcode-projects/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/hadi327/leetcode-projects/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hadi327/leetcode-projects/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
