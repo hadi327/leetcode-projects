@@ -84,6 +84,7 @@
 | [0009-palindrome-number](https://github.com/hadi327/leetcode-projects/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/hadi327/leetcode-projects/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
