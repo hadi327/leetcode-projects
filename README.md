@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hadi327/leetcode-projects/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/hadi327/leetcode-projects/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hadi327/leetcode-projects/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/hadi327/leetcode-projects/tree/master/0198-house-robber) |
@@ -211,6 +212,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/hadi327/leetcode-projects/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
