@@ -18,6 +18,7 @@
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/hadi327/leetcode-projects/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hadi327/leetcode-projects/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/hadi327/leetcode-projects/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/hadi327/leetcode-projects/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
