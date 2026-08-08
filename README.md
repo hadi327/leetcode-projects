@@ -17,6 +17,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/hadi327/leetcode-projects/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hadi327/leetcode-projects/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/hadi327/leetcode-projects/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
@@ -209,6 +210,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/hadi327/leetcode-projects/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/1015-smallest-integer-divisible-by-k) |
