@@ -23,6 +23,7 @@
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/hadi327/leetcode-projects/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/hadi327/leetcode-projects/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hadi327/leetcode-projects/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -261,6 +262,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/hadi327/leetcode-projects/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hadi327/leetcode-projects/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
