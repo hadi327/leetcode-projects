@@ -47,6 +47,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hadi327/leetcode-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/hadi327/leetcode-projects/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/hadi327/leetcode-projects/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -349,6 +350,7 @@
 | [0724-find-pivot-index](https://github.com/hadi327/leetcode-projects/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/hadi327/leetcode-projects/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/hadi327/leetcode-projects/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/hadi327/leetcode-projects/tree/master/2485-find-the-pivot-integer) |
 ## Design
