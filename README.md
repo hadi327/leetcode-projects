@@ -36,6 +36,7 @@
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/hadi327/leetcode-projects/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadi327/leetcode-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -104,6 +105,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hadi327/leetcode-projects/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/hadi327/leetcode-projects/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/hadi327/leetcode-projects/tree/master/2485-find-the-pivot-integer) |
@@ -309,6 +311,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/hadi327/leetcode-projects/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hadi327/leetcode-projects/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -319,6 +322,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -349,6 +353,7 @@
 | [0238-product-of-array-except-self](https://github.com/hadi327/leetcode-projects/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hadi327/leetcode-projects/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/hadi327/leetcode-projects/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/hadi327/leetcode-projects/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
@@ -553,4 +558,12 @@
 | ------- |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/hadi327/leetcode-projects/tree/master/0460-lfu-cache) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
