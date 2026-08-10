@@ -107,6 +107,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/hadi327/leetcode-projects/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/hadi327/leetcode-projects/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -315,6 +316,7 @@
 | [1143-longest-common-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -324,6 +326,7 @@
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -562,8 +565,18 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
