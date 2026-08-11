@@ -98,6 +98,7 @@
 | [0002-add-two-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hadi327/leetcode-projects/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/hadi327/leetcode-projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/hadi327/leetcode-projects/tree/master/0263-ugly-number) |
@@ -144,6 +145,7 @@
 | [0008-string-to-integer-atoi](https://github.com/hadi327/leetcode-projects/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/hadi327/leetcode-projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
@@ -220,6 +222,7 @@
 | [0001-two-sum](https://github.com/hadi327/leetcode-projects/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hadi327/leetcode-projects/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/hadi327/leetcode-projects/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
