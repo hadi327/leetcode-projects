@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hadi327/leetcode-projects/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/hadi327/leetcode-projects/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/hadi327/leetcode-projects/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hadi327/leetcode-projects/tree/master/0162-find-peak-element) |
@@ -64,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/hadi327/leetcode-projects/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/hadi327/leetcode-projects/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hadi327/leetcode-projects/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/hadi327/leetcode-projects/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/hadi327/leetcode-projects/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0345-reverse-vowels-of-a-string) |
