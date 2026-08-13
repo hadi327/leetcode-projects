@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/hadi327/leetcode-projects/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hadi327/leetcode-projects/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
@@ -358,6 +359,7 @@
 | [0011-container-with-most-water](https://github.com/hadi327/leetcode-projects/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/hadi327/leetcode-projects/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hadi327/leetcode-projects/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hadi327/leetcode-projects/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
