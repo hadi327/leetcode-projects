@@ -24,6 +24,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hadi327/leetcode-projects/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/hadi327/leetcode-projects/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/hadi327/leetcode-projects/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
@@ -79,6 +80,7 @@
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/hadi327/leetcode-projects/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/hadi327/leetcode-projects/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hadi327/leetcode-projects/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/hadi327/leetcode-projects/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadi327/leetcode-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
