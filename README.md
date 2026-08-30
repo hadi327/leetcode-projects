@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/hadi327/leetcode-projects/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hadi327/leetcode-projects/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/hadi327/leetcode-projects/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
@@ -326,6 +327,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hadi327/leetcode-projects/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/hadi327/leetcode-projects/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/hadi327/leetcode-projects/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/hadi327/leetcode-projects/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
