@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/hadi327/leetcode-projects/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hadi327/leetcode-projects/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
@@ -258,6 +259,7 @@
 | [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/hadi327/leetcode-projects/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
@@ -293,6 +295,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
