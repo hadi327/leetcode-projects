@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hadi327/leetcode-projects/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
@@ -260,6 +261,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/hadi327/leetcode-projects/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -385,6 +388,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -667,4 +671,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
