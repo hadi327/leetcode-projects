@@ -22,6 +22,7 @@
 | [0046-permutations](https://github.com/hadi327/leetcode-projects/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hadi327/leetcode-projects/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/hadi327/leetcode-projects/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0018-4sum](https://github.com/hadi327/leetcode-projects/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/hadi327/leetcode-projects/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
@@ -183,6 +185,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/hadi327/leetcode-projects/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
@@ -272,6 +275,7 @@
 | [0036-valid-sudoku](https://github.com/hadi327/leetcode-projects/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/hadi327/leetcode-projects/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
