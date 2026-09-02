@@ -137,6 +137,7 @@
 | [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/hadi327/leetcode-projects/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/hadi327/leetcode-projects/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/hadi327/leetcode-projects/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/hadi327/leetcode-projects/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
@@ -270,6 +271,7 @@
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/hadi327/leetcode-projects/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hadi327/leetcode-projects/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/hadi327/leetcode-projects/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/hadi327/leetcode-projects/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
