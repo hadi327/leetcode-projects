@@ -23,6 +23,7 @@
 | [0047-permutations-ii](https://github.com/hadi327/leetcode-projects/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/hadi327/leetcode-projects/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/hadi327/leetcode-projects/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
@@ -409,6 +410,7 @@
 | [0040-combination-sum-ii](https://github.com/hadi327/leetcode-projects/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hadi327/leetcode-projects/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hadi327/leetcode-projects/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/hadi327/leetcode-projects/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -696,6 +698,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/hadi327/leetcode-projects/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
