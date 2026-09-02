@@ -193,6 +193,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/hadi327/leetcode-projects/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/hadi327/leetcode-projects/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
