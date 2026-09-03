@@ -144,6 +144,7 @@
 | [0060-permutation-sequence](https://github.com/hadi327/leetcode-projects/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/hadi327/leetcode-projects/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/hadi327/leetcode-projects/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/hadi327/leetcode-projects/tree/master/0263-ugly-number) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hadi327/leetcode-projects/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hadi327/leetcode-projects/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/hadi327/leetcode-projects/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/hadi327/leetcode-projects/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/hadi327/leetcode-projects/tree/master/1929-concatenation-of-array) |
@@ -203,6 +206,7 @@
 | [0038-count-and-say](https://github.com/hadi327/leetcode-projects/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hadi327/leetcode-projects/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
