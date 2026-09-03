@@ -32,6 +32,7 @@
 | [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hadi327/leetcode-projects/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hadi327/leetcode-projects/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/hadi327/leetcode-projects/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hadi327/leetcode-projects/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/hadi327/leetcode-projects/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/hadi327/leetcode-projects/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/hadi327/leetcode-projects/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/hadi327/leetcode-projects/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
@@ -442,6 +444,7 @@
 | [0047-permutations-ii](https://github.com/hadi327/leetcode-projects/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/hadi327/leetcode-projects/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hadi327/leetcode-projects/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/hadi327/leetcode-projects/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
