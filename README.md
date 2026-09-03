@@ -31,6 +31,7 @@
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hadi327/leetcode-projects/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/hadi327/leetcode-projects/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hadi327/leetcode-projects/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -142,6 +143,7 @@
 | [0048-rotate-image](https://github.com/hadi327/leetcode-projects/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/hadi327/leetcode-projects/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/hadi327/leetcode-projects/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hadi327/leetcode-projects/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/hadi327/leetcode-projects/tree/master/0263-ugly-number) |
