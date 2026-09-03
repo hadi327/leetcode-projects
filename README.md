@@ -33,6 +33,7 @@
 | [0064-minimum-path-sum](https://github.com/hadi327/leetcode-projects/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hadi327/leetcode-projects/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/hadi327/leetcode-projects/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hadi327/leetcode-projects/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -211,6 +212,7 @@
 | [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hadi327/leetcode-projects/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
@@ -344,6 +346,7 @@
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hadi327/leetcode-projects/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -445,6 +448,7 @@
 | [0051-n-queens](https://github.com/hadi327/leetcode-projects/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/hadi327/leetcode-projects/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/hadi327/leetcode-projects/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -518,6 +522,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
