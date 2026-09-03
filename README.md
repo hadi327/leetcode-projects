@@ -29,6 +29,7 @@
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hadi327/leetcode-projects/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hadi327/leetcode-projects/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hadi327/leetcode-projects/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -329,6 +330,7 @@
 | [0048-rotate-image](https://github.com/hadi327/leetcode-projects/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hadi327/leetcode-projects/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -389,6 +391,7 @@
 | [0053-maximum-subarray](https://github.com/hadi327/leetcode-projects/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hadi327/leetcode-projects/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hadi327/leetcode-projects/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/hadi327/leetcode-projects/tree/master/0198-house-robber) |
