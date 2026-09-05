@@ -530,6 +530,7 @@
 | [0098-validate-binary-search-tree](https://github.com/hadi327/leetcode-projects/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hadi327/leetcode-projects/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/hadi327/leetcode-projects/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hadi327/leetcode-projects/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/hadi327/leetcode-projects/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/hadi327/leetcode-projects/tree/master/0872-leaf-similar-trees) |
@@ -540,6 +541,7 @@
 | [0098-validate-binary-search-tree](https://github.com/hadi327/leetcode-projects/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hadi327/leetcode-projects/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/hadi327/leetcode-projects/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hadi327/leetcode-projects/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
@@ -552,6 +554,7 @@
 | [0098-validate-binary-search-tree](https://github.com/hadi327/leetcode-projects/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hadi327/leetcode-projects/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/hadi327/leetcode-projects/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hadi327/leetcode-projects/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/hadi327/leetcode-projects/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/hadi327/leetcode-projects/tree/master/0872-leaf-similar-trees) |
@@ -559,6 +562,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hadi327/leetcode-projects/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/hadi327/leetcode-projects/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
