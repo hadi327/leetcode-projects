@@ -217,6 +217,7 @@
 | [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/hadi327/leetcode-projects/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/hadi327/leetcode-projects/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/hadi327/leetcode-projects/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
@@ -420,6 +421,7 @@
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/hadi327/leetcode-projects/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hadi327/leetcode-projects/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/hadi327/leetcode-projects/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/hadi327/leetcode-projects/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/hadi327/leetcode-projects/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0392-is-subsequence) |
