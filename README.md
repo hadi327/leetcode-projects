@@ -216,6 +216,7 @@
 | [0076-minimum-window-substring](https://github.com/hadi327/leetcode-projects/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/hadi327/leetcode-projects/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/hadi327/leetcode-projects/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
@@ -309,6 +310,7 @@
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/hadi327/leetcode-projects/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/hadi327/leetcode-projects/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/hadi327/leetcode-projects/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
@@ -567,6 +569,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/hadi327/leetcode-projects/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hadi327/leetcode-projects/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/hadi327/leetcode-projects/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
@@ -778,4 +781,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/hadi327/leetcode-projects/tree/master/0084-largest-rectangle-in-histogram) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/hadi327/leetcode-projects/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
