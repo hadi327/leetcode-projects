@@ -151,6 +151,7 @@
 | [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/hadi327/leetcode-projects/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/hadi327/leetcode-projects/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hadi327/leetcode-projects/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
@@ -188,6 +189,7 @@
 | [0054-spiral-matrix](https://github.com/hadi327/leetcode-projects/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/hadi327/leetcode-projects/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/hadi327/leetcode-projects/tree/master/1929-concatenation-of-array) |
@@ -706,6 +708,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hadi327/leetcode-projects/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Merge Sort
 |  |
