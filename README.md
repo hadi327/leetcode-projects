@@ -18,6 +18,7 @@
 | [0039-combination-sum](https://github.com/hadi327/leetcode-projects/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hadi327/leetcode-projects/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/hadi327/leetcode-projects/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/hadi327/leetcode-projects/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hadi327/leetcode-projects/tree/master/0047-permutations-ii) |
@@ -386,6 +387,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hadi327/leetcode-projects/tree/master/0084-largest-rectangle-in-histogram) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
@@ -420,6 +422,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/hadi327/leetcode-projects/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hadi327/leetcode-projects/tree/master/0055-jump-game) |
@@ -484,6 +487,7 @@
 | [0027-remove-element](https://github.com/hadi327/leetcode-projects/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/hadi327/leetcode-projects/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/hadi327/leetcode-projects/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hadi327/leetcode-projects/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -526,6 +530,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hadi327/leetcode-projects/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/hadi327/leetcode-projects/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
