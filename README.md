@@ -33,6 +33,7 @@
 | [0063-unique-paths-ii](https://github.com/hadi327/leetcode-projects/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hadi327/leetcode-projects/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hadi327/leetcode-projects/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/hadi327/leetcode-projects/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/hadi327/leetcode-projects/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -193,6 +194,7 @@
 | [0054-spiral-matrix](https://github.com/hadi327/leetcode-projects/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hadi327/leetcode-projects/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/hadi327/leetcode-projects/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/hadi327/leetcode-projects/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -218,6 +220,7 @@
 | [0049-group-anagrams](https://github.com/hadi327/leetcode-projects/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hadi327/leetcode-projects/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hadi327/leetcode-projects/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/hadi327/leetcode-projects/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/hadi327/leetcode-projects/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/hadi327/leetcode-projects/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
