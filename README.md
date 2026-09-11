@@ -49,6 +49,7 @@
 | [0274-h-index](https://github.com/hadi327/leetcode-projects/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/hadi327/leetcode-projects/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hadi327/leetcode-projects/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/hadi327/leetcode-projects/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,6 +154,7 @@
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/hadi327/leetcode-projects/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hadi327/leetcode-projects/tree/master/0263-ugly-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hadi327/leetcode-projects/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0728-self-dividing-numbers) |
@@ -319,6 +321,7 @@
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hadi327/leetcode-projects/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/hadi327/leetcode-projects/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
@@ -513,6 +516,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hadi327/leetcode-projects/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/hadi327/leetcode-projects/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
@@ -799,4 +803,8 @@
 |  |
 | ------- |
 | [1115-print-foobar-alternately](https://github.com/hadi327/leetcode-projects/tree/master/1115-print-foobar-alternately) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/hadi327/leetcode-projects/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
