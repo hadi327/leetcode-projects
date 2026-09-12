@@ -1,0 +1,1 @@
+class NumMatrix{constructor(t){if(null==t||0===t.length||0===t[0].length)return;const l=t.length,s=t[0].length,n=[];for(let t=0;t<=l;t++){const t=[];for(let l=0;l<=s;l++)t.push(null);n.push(t)}for(let e=0;e<l;e++)for(let l=0;l<s;l++)n[e+1][l+1]=n[e+1][l]+n[e][l+1]+t[e][l]-n[e][l];this.dp=n}sumRegion(t,l,s,n){return this.dp[s+1][n+1]-this.dp[t][n+1]-this.dp[s+1][l]+this.dp[t][l]}}
