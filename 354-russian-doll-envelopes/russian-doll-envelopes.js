@@ -1,0 +1,2 @@
+/**************************😎**************************/
+const maxEnvelopes=r=>{var o=r.length;r.sort(((r,o)=>r[0]===o[0]?o[1]-r[1]:r[0]-o[0]));for(var t=[r[0][1]],a=1;a<o;a++){for(var e=r[a][1],n=0,l=t.length;n<l;){var v=Math.floor((n+l)/2);t[v]<e?n=v+1:l=v}n>=0&&(t[n]=e)}return t.length};
