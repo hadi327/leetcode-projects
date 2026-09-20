@@ -161,6 +161,7 @@
 | [0486-predict-the-winner](https://github.com/hadi327/leetcode-projects/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0728-self-dividing-numbers) |
+| [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hadi327/leetcode-projects/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -352,6 +353,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/hadi327/leetcode-projects/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
+| [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hadi327/leetcode-projects/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -445,6 +447,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hadi327/leetcode-projects/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/hadi327/leetcode-projects/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/hadi327/leetcode-projects/tree/master/0790-domino-and-tromino-tiling) |
+| [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/hadi327/leetcode-projects/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
@@ -819,4 +822,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/hadi327/leetcode-projects/tree/master/0380-insert-delete-getrandom-o1) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
