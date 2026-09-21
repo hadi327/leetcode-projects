@@ -71,6 +71,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/hadi327/leetcode-projects/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/hadi327/leetcode-projects/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
@@ -163,6 +164,7 @@
 | [0728-self-dividing-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0728-self-dividing-numbers) |
 | [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/hadi327/leetcode-projects/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hadi327/leetcode-projects/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/hadi327/leetcode-projects/tree/master/1137-n-th-tribonacci-number) |
