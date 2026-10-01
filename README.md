@@ -216,6 +216,7 @@
 | [0012-integer-to-roman](https://github.com/hadi327/leetcode-projects/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
@@ -393,6 +394,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hadi327/leetcode-projects/tree/master/0084-largest-rectangle-in-histogram) |
@@ -742,6 +744,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 ## Pigeonhole Principle
 |  |
