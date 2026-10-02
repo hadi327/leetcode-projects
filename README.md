@@ -217,6 +217,7 @@
 | [0013-roman-to-integer](https://github.com/hadi327/leetcode-projects/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hadi327/leetcode-projects/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
@@ -431,6 +432,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hadi327/leetcode-projects/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/hadi327/leetcode-projects/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hadi327/leetcode-projects/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/0045-jump-game-ii) |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hadi327/leetcode-projects/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/hadi327/leetcode-projects/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hadi327/leetcode-projects/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/hadi327/leetcode-projects/tree/master/0040-combination-sum-ii) |
@@ -745,6 +748,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 ## Pigeonhole Principle
 |  |
