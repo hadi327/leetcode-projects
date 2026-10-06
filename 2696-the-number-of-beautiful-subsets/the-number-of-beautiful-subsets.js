@@ -1,0 +1,1 @@
+const beautifulSubsets=(t,e)=>{let l=function t(l){let r=l.length;if(0===r)return 0;let u=0;for(let n=0;n<r;n++){let f=[];for(let t=n+1;t<r;t++)Math.abs(l[n]-l[t])!==e&&f.push(l[t]);u+=1+t(f)}return u}(t);return l};
