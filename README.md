@@ -115,6 +115,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hadi327/leetcode-projects/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hadi327/leetcode-projects/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hadi327/leetcode-projects/tree/master/3903-smallest-stable-index-i) |
@@ -152,6 +153,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hadi327/leetcode-projects/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -466,6 +468,7 @@
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -477,6 +480,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -714,6 +718,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Ordered Set
 |  |
 | ------- |
