@@ -246,6 +246,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/hadi327/leetcode-projects/tree/master/0208-implement-trie-prefix-tree) |
 | [0227-basic-calculator-ii](https://github.com/hadi327/leetcode-projects/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/hadi327/leetcode-projects/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/hadi327/leetcode-projects/tree/master/0394-decode-string) |
@@ -505,6 +506,7 @@
 | [0113-path-sum-ii](https://github.com/hadi327/leetcode-projects/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/hadi327/leetcode-projects/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/hadi327/leetcode-projects/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0301-remove-invalid-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -625,6 +627,7 @@
 | [0100-same-tree](https://github.com/hadi327/leetcode-projects/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hadi327/leetcode-projects/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/hadi327/leetcode-projects/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
