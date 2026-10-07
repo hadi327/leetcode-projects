@@ -71,6 +71,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/hadi327/leetcode-projects/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
+| [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
 | [0989-add-to-array-form-of-integer](https://github.com/hadi327/leetcode-projects/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
@@ -473,6 +474,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/hadi327/leetcode-projects/tree/master/0790-domino-and-tromino-tiling) |
 | [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
+| [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
 | [1137-n-th-tribonacci-number](https://github.com/hadi327/leetcode-projects/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/1143-longest-common-subsequence) |
@@ -904,4 +906,16 @@
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2097-valid-arrangement-of-pairs) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
