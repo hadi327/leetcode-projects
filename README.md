@@ -94,6 +94,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/hadi327/leetcode-projects/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hadi327/leetcode-projects/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2097-valid-arrangement-of-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -130,6 +131,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hadi327/leetcode-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2542-maximum-subsequence-score](https://github.com/hadi327/leetcode-projects/tree/master/2542-maximum-subsequence-score) |
@@ -202,6 +204,7 @@
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/hadi327/leetcode-projects/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -435,6 +438,7 @@
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
 ## Divide and Conquer
@@ -482,6 +486,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -536,6 +541,7 @@
 | [0443-string-compression](https://github.com/hadi327/leetcode-projects/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/hadi327/leetcode-projects/tree/master/1768-merge-strings-alternately) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hadi327/leetcode-projects/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/hadi327/leetcode-projects/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -678,6 +684,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
@@ -910,6 +917,7 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -918,4 +926,8 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
