@@ -74,6 +74,7 @@
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
+| [0986-interval-list-intersections](https://github.com/hadi327/leetcode-projects/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/hadi327/leetcode-projects/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
@@ -548,6 +549,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hadi327/leetcode-projects/tree/master/0443-string-compression) |
+| [0986-interval-list-intersections](https://github.com/hadi327/leetcode-projects/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/hadi327/leetcode-projects/tree/master/1768-merge-strings-alternately) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -956,4 +958,5 @@
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
+| [0986-interval-list-intersections](https://github.com/hadi327/leetcode-projects/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
