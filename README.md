@@ -70,6 +70,7 @@
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hadi327/leetcode-projects/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/hadi327/leetcode-projects/tree/master/0746-min-cost-climbing-stairs) |
+| [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/hadi327/leetcode-projects/tree/master/0877-stone-game) |
 | [0956-tallest-billboard](https://github.com/hadi327/leetcode-projects/tree/master/0956-tallest-billboard) |
@@ -694,6 +695,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
@@ -835,6 +837,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -949,4 +952,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Sweep Line
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
