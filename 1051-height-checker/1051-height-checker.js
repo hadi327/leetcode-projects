@@ -1,0 +1,1 @@
+const heightChecker=e=>{const r=[...e].sort((e,r)=>e-r);return e.reduce((t,c,h)=>r[h]!==e[h]?t+1:t,0)};
