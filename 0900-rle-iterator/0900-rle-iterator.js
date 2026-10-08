@@ -1,0 +1,1 @@
+class RLEIterator{constructor(i){this.encoding=i,this.index=0}next(i){for(;this.index<this.encoding.length;){const n=this.encoding[this.index];if(n>=i)return this.encoding[this.index]-=i,this.encoding[this.index+1];i-=n,this.index+=2}return-1}}
