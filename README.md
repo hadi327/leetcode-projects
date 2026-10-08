@@ -96,6 +96,7 @@
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/hadi327/leetcode-projects/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
@@ -469,6 +470,7 @@
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
@@ -1002,24 +1004,29 @@
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 ## Suffix Array
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 ## Hash Function
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 ## Suffix Automaton
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 ## Suffix Tree
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
+| [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 <!---LeetCode Topics End-->
