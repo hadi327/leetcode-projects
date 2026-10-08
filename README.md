@@ -277,6 +277,7 @@
 | [0649-dota2-senate](https://github.com/hadi327/leetcode-projects/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/hadi327/leetcode-projects/tree/master/0692-top-k-frequent-words) |
 | [0753-cracking-the-safe](https://github.com/hadi327/leetcode-projects/tree/master/0753-cracking-the-safe) |
+| [1021-remove-outermost-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hadi327/leetcode-projects/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
@@ -449,6 +450,7 @@
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hadi327/leetcode-projects/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -830,6 +832,7 @@
 | [0020-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/1021-remove-outermost-parentheses) |
 ## Pigeonhole Principle
 |  |
 | ------- |
