@@ -278,6 +278,7 @@
 | [0692-top-k-frequent-words](https://github.com/hadi327/leetcode-projects/tree/master/0692-top-k-frequent-words) |
 | [0753-cracking-the-safe](https://github.com/hadi327/leetcode-projects/tree/master/0753-cracking-the-safe) |
 | [1021-remove-outermost-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/1021-remove-outermost-parentheses) |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/hadi327/leetcode-projects/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/hadi327/leetcode-projects/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
@@ -401,6 +402,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/hadi327/leetcode-projects/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/hadi327/leetcode-projects/tree/master/0837-new-21-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hadi327/leetcode-projects/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -463,6 +465,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/hadi327/leetcode-projects/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/hadi327/leetcode-projects/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -882,6 +885,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -890,6 +894,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hadi327/leetcode-projects/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 ## Algorithm X
 |  |
 | ------- |
@@ -990,4 +995,24 @@
 | [0986-interval-list-intersections](https://github.com/hadi327/leetcode-projects/tree/master/0986-interval-list-intersections) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
