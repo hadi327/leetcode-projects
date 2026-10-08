@@ -1,0 +1,1 @@
+const distinctEchoSubstrings=t=>{const s=t.length,n=Math.floor(s/2),e=new Set;for(let r=1;r<=n;r++)for(let n=0;n<=s-2*r;n++){let s=t.substring(n,n+r);s===t.substring(n+r,n+2*r)&&e.add(s)}return e.size};
