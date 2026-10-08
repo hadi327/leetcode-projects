@@ -1,0 +1,2 @@
+/**************************😎**************************/
+const longestDupSubstring=t=>{const e=[...t].map((t=>t.charCodeAt()-"a".charCodeAt())),n=t.length;let o=1,r=n,l=[0,0];for(;o<=r;){const t=Math.floor((o+r)/2),e=a(t);e.length?(l=e,o=t+1):r=t-1}return t.slice(l[0],l[1]);function a(t){const o=new Set,r=2**47-1;let l=1,a=0;for(let n=0;n<t;n++)l=26*l%r,a=(26*a+e[n])%r;o.add(a);for(let c=t;c<n;c++){if(a*=26,a-=l*e[c-t]%r,a+=r,a=(a+e[c])%r,o.has(a))return[c-t+1,c+1];o.add(a)}return[]}};
