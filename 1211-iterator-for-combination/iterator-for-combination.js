@@ -1,0 +1,1 @@
+class CombinationIterator{constructor(t,r){this.iiterator=function*i(e,n){e.length===r&&(yield e);for(let r=n;r<t.length;r++)yield*i(e+t[r],r+1)}("",0),this.curr=this.iiterator.next()}next(){const t=this.curr;return this.curr=this.iiterator.next(),t.value}hasNext(){return!this.curr.done}}
