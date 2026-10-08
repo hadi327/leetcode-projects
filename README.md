@@ -79,6 +79,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/hadi327/leetcode-projects/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/hadi327/leetcode-projects/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/hadi327/leetcode-projects/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
@@ -137,6 +138,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/hadi327/leetcode-projects/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/hadi327/leetcode-projects/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/hadi327/leetcode-projects/tree/master/0692-top-k-frequent-words) |
+| [1051-height-checker](https://github.com/hadi327/leetcode-projects/tree/master/1051-height-checker) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadi327/leetcode-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -436,6 +438,7 @@
 | [0274-h-index](https://github.com/hadi327/leetcode-projects/tree/master/0274-h-index) |
 | [0692-top-k-frequent-words](https://github.com/hadi327/leetcode-projects/tree/master/0692-top-k-frequent-words) |
 | [0900-rle-iterator](https://github.com/hadi327/leetcode-projects/tree/master/0900-rle-iterator) |
+| [1051-height-checker](https://github.com/hadi327/leetcode-projects/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadi327/leetcode-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1044,4 +1047,8 @@
 | ------- |
 | [0900-rle-iterator](https://github.com/hadi327/leetcode-projects/tree/master/0900-rle-iterator) |
 | [1286-iterator-for-combination](https://github.com/hadi327/leetcode-projects/tree/master/1286-iterator-for-combination) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/hadi327/leetcode-projects/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
