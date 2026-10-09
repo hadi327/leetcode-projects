@@ -95,6 +95,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1590-make-sum-divisible-by-p](https://github.com/hadi327/leetcode-projects/tree/master/1590-make-sum-divisible-by-p) |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 | [1664-ways-to-make-a-fair-array](https://github.com/hadi327/leetcode-projects/tree/master/1664-ways-to-make-a-fair-array) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -493,6 +494,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/hadi327/leetcode-projects/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/hadi327/leetcode-projects/tree/master/1044-longest-duplicate-substring) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -509,6 +511,7 @@
 | [0053-maximum-subarray](https://github.com/hadi327/leetcode-projects/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hadi327/leetcode-projects/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/0215-kth-largest-element-in-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -764,6 +767,7 @@
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
@@ -862,6 +866,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hadi327/leetcode-projects/tree/master/0023-merge-k-sorted-lists) |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -911,6 +916,7 @@
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -1080,4 +1086,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/hadi327/leetcode-projects/tree/master/1122-relative-sort-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
