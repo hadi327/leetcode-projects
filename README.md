@@ -96,6 +96,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1590-make-sum-divisible-by-p](https://github.com/hadi327/leetcode-projects/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/hadi327/leetcode-projects/tree/master/1664-ways-to-make-a-fair-array) |
+| [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -359,6 +360,7 @@
 | [0328-odd-even-linked-list](https://github.com/hadi327/leetcode-projects/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/hadi327/leetcode-projects/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hadi327/leetcode-projects/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hadi327/leetcode-projects/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -635,6 +637,7 @@
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 | [1286-iterator-for-combination](https://github.com/hadi327/leetcode-projects/tree/master/1286-iterator-for-combination) |
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
@@ -649,11 +652,13 @@
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/hadi327/leetcode-projects/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 ## Tree
 |  |
 | ------- |
@@ -883,6 +888,7 @@
 | [0146-lru-cache](https://github.com/hadi327/leetcode-projects/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/hadi327/leetcode-projects/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 ## Minimax
 |  |
 | ------- |
