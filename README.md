@@ -292,6 +292,7 @@
 | [1286-iterator-for-combination](https://github.com/hadi327/leetcode-projects/tree/master/1286-iterator-for-combination) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hadi327/leetcode-projects/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hadi327/leetcode-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -325,6 +326,7 @@
 | [0649-dota2-senate](https://github.com/hadi327/leetcode-projects/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/hadi327/leetcode-projects/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hadi327/leetcode-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hadi327/leetcode-projects/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/hadi327/leetcode-projects/tree/master/2542-maximum-subsequence-score) |
@@ -467,6 +469,7 @@
 | [0739-daily-temperatures](https://github.com/hadi327/leetcode-projects/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hadi327/leetcode-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -856,6 +859,7 @@
 | [0022-generate-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/hadi327/leetcode-projects/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hadi327/leetcode-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
