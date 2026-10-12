@@ -92,6 +92,7 @@
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hadi327/leetcode-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/hadi327/leetcode-projects/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1590-make-sum-divisible-by-p](https://github.com/hadi327/leetcode-projects/tree/master/1590-make-sum-divisible-by-p) |
@@ -244,6 +245,7 @@
 | [0068-text-justification](https://github.com/hadi327/leetcode-projects/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/hadi327/leetcode-projects/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/hadi327/leetcode-projects/tree/master/0735-asteroid-collision) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/hadi327/leetcode-projects/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/hadi327/leetcode-projects/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
@@ -1090,4 +1092,8 @@
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/hadi327/leetcode-projects/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
