@@ -177,6 +177,7 @@
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
@@ -646,6 +647,7 @@
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/hadi327/leetcode-projects/tree/master/1656-design-an-ordered-stream) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
+| [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
@@ -662,12 +664,14 @@
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/hadi327/leetcode-projects/tree/master/1656-design-an-ordered-stream) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
+| [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 ## Queue
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/hadi327/leetcode-projects/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
+| [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 ## Tree
 |  |
 | ------- |
@@ -774,6 +778,7 @@
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/hadi327/leetcode-projects/tree/master/0850-rectangle-area-ii) |
 | [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
+| [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1100,4 +1105,8 @@
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/hadi327/leetcode-projects/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Treap
+|  |
+| ------- |
+| [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 <!---LeetCode Topics End-->
