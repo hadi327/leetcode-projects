@@ -109,6 +109,7 @@
 | [1929-concatenation-of-array](https://github.com/hadi327/leetcode-projects/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hadi327/leetcode-projects/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hadi327/leetcode-projects/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -412,6 +413,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/hadi327/leetcode-projects/tree/master/1980-find-unique-binary-string) |
+| [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/hadi327/leetcode-projects/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
@@ -460,6 +462,7 @@
 | [1122-relative-sort-array](https://github.com/hadi327/leetcode-projects/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadi327/leetcode-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
+| [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hadi327/leetcode-projects/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -648,6 +651,7 @@
 | [1656-design-an-ordered-stream](https://github.com/hadi327/leetcode-projects/tree/master/1656-design-an-ordered-stream) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
+| [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
@@ -665,6 +669,7 @@
 | [1656-design-an-ordered-stream](https://github.com/hadi327/leetcode-projects/tree/master/1656-design-an-ordered-stream) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
+| [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 ## Queue
 |  |
 | ------- |
