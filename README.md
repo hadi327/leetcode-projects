@@ -420,6 +420,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/hadi327/leetcode-projects/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hadi327/leetcode-projects/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -467,6 +468,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/hadi327/leetcode-projects/tree/master/1657-determine-if-two-strings-are-close) |
 | [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hadi327/leetcode-projects/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -658,6 +660,7 @@
 | [2034-stock-price-fluctuation](https://github.com/hadi327/leetcode-projects/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/hadi327/leetcode-projects/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -677,6 +680,7 @@
 | [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/hadi327/leetcode-projects/tree/master/2034-stock-price-fluctuation) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/hadi327/leetcode-projects/tree/master/2102-sequentially-ordinal-rank-tracker) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -684,6 +688,7 @@
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Tree
 |  |
 | ------- |
