@@ -182,6 +182,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2034-stock-price-fluctuation](https://github.com/hadi327/leetcode-projects/tree/master/2034-stock-price-fluctuation) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/hadi327/leetcode-projects/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/hadi327/leetcode-projects/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -655,6 +656,7 @@
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/hadi327/leetcode-projects/tree/master/2034-stock-price-fluctuation) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/hadi327/leetcode-projects/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
@@ -674,6 +676,7 @@
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2034-stock-price-fluctuation](https://github.com/hadi327/leetcode-projects/tree/master/2034-stock-price-fluctuation) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/hadi327/leetcode-projects/tree/master/2102-sequentially-ordinal-rank-tracker) |
 ## Queue
 |  |
 | ------- |
@@ -790,6 +793,7 @@
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2034-stock-price-fluctuation](https://github.com/hadi327/leetcode-projects/tree/master/2034-stock-price-fluctuation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2102-sequentially-ordinal-rank-tracker](https://github.com/hadi327/leetcode-projects/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
