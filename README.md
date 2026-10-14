@@ -93,6 +93,7 @@
 | [1470-shuffle-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hadi327/leetcode-projects/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/hadi327/leetcode-projects/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -181,6 +182,7 @@
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hadi327/leetcode-projects/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -445,6 +447,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hadi327/leetcode-projects/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hadi327/leetcode-projects/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Matrix
 |  |
@@ -698,6 +701,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hadi327/leetcode-projects/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/hadi327/leetcode-projects/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hadi327/leetcode-projects/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -1146,4 +1150,5 @@
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/hadi327/leetcode-projects/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hadi327/leetcode-projects/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
