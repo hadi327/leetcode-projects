@@ -144,6 +144,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/hadi327/leetcode-projects/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hadi327/leetcode-projects/tree/master/3903-smallest-stable-index-i) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -468,6 +469,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -550,6 +552,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -609,6 +612,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -688,6 +692,7 @@
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3903-smallest-stable-index-i](https://github.com/hadi327/leetcode-projects/tree/master/3903-smallest-stable-index-i) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Design
 |  |
 | ------- |
@@ -750,6 +755,7 @@
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/hadi327/leetcode-projects/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 ## Tree
 |  |
 | ------- |
@@ -1211,4 +1217,5 @@
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/hadi327/leetcode-projects/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
+| [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 <!---LeetCode Topics End-->
