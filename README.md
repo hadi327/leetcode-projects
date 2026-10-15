@@ -125,6 +125,7 @@
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/hadi327/leetcode-projects/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/hadi327/leetcode-projects/tree/master/2542-maximum-subsequence-score) |
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
@@ -548,6 +549,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Dynamic Programming
 |  |
@@ -588,6 +590,7 @@
 | [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -719,6 +722,7 @@
 | [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Tree
 |  |
@@ -981,6 +985,7 @@
 | [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -1153,6 +1158,7 @@
 |  |
 | ------- |
 | [1649-create-sorted-array-through-instructions](https://github.com/hadi327/leetcode-projects/tree/master/1649-create-sorted-array-through-instructions) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1170,4 +1176,5 @@
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 <!---LeetCode Topics End-->
