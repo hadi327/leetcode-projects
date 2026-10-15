@@ -139,6 +139,7 @@
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hadi327/leetcode-projects/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hadi327/leetcode-projects/tree/master/3903-smallest-stable-index-i) |
@@ -259,6 +260,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hadi327/leetcode-projects/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Simulation
 |  |
 | ------- |
@@ -464,6 +466,7 @@
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/hadi327/leetcode-projects/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Matrix
 |  |
 | ------- |
@@ -682,6 +685,7 @@
 | [2485-find-the-pivot-integer](https://github.com/hadi327/leetcode-projects/tree/master/2485-find-the-pivot-integer) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 | [3903-smallest-stable-index-i](https://github.com/hadi327/leetcode-projects/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
@@ -743,6 +747,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Tree
 |  |
 | ------- |
@@ -876,6 +881,7 @@
 | [0692-top-k-frequent-words](https://github.com/hadi327/leetcode-projects/tree/master/0692-top-k-frequent-words) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1316-distinct-echo-substrings](https://github.com/hadi327/leetcode-projects/tree/master/1316-distinct-echo-substrings) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 ## Enumeration
 |  |
 | ------- |
@@ -1201,4 +1207,5 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3845-maximum-subarray-xor-with-bounded-range](https://github.com/hadi327/leetcode-projects/tree/master/3845-maximum-subarray-xor-with-bounded-range) |
 <!---LeetCode Topics End-->
