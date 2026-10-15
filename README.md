@@ -133,6 +133,7 @@
 | [2607-make-k-subarray-sums-equal](https://github.com/hadi327/leetcode-projects/tree/master/2607-make-k-subarray-sums-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hadi327/leetcode-projects/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -459,6 +460,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/hadi327/leetcode-projects/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 | [1472-design-browser-history](https://github.com/hadi327/leetcode-projects/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hadi327/leetcode-projects/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -698,6 +701,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/hadi327/leetcode-projects/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/hadi327/leetcode-projects/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/hadi327/leetcode-projects/tree/master/0901-online-stock-span) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -727,6 +731,7 @@
 | [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/hadi327/leetcode-projects/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -989,6 +994,7 @@
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -1181,4 +1187,5 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/hadi327/leetcode-projects/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
