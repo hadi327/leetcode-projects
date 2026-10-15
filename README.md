@@ -105,6 +105,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hadi327/leetcode-projects/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [1732-find-the-highest-altitude](https://github.com/hadi327/leetcode-projects/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -185,6 +186,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hadi327/leetcode-projects/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -579,6 +581,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hadi327/leetcode-projects/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/hadi327/leetcode-projects/tree/master/1510-stone-game-iv) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
@@ -708,6 +711,7 @@
 | [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1670-design-front-middle-back-queue](https://github.com/hadi327/leetcode-projects/tree/master/1670-design-front-middle-back-queue) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 | [1825-finding-mk-average](https://github.com/hadi327/leetcode-projects/tree/master/1825-finding-mk-average) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Tree
@@ -1158,4 +1162,5 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/hadi327/leetcode-projects/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1499-max-value-of-equation](https://github.com/hadi327/leetcode-projects/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/hadi327/leetcode-projects/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1696-jump-game-vi](https://github.com/hadi327/leetcode-projects/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
