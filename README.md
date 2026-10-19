@@ -117,6 +117,7 @@
 | [2013-detect-squares](https://github.com/hadi327/leetcode-projects/tree/master/2013-detect-squares) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hadi327/leetcode-projects/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hadi327/leetcode-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hadi327/leetcode-projects/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2097-valid-arrangement-of-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -174,6 +175,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/hadi327/leetcode-projects/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/hadi327/leetcode-projects/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hadi327/leetcode-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2542-maximum-subsequence-score](https://github.com/hadi327/leetcode-projects/tree/master/2542-maximum-subsequence-score) |
@@ -547,6 +549,7 @@
 | [1851-minimum-interval-to-include-each-query](https://github.com/hadi327/leetcode-projects/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1923-longest-common-subpath](https://github.com/hadi327/leetcode-projects/tree/master/1923-longest-common-subpath) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hadi327/leetcode-projects/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
