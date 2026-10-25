@@ -84,6 +84,7 @@
 | [1122-relative-sort-array](https://github.com/hadi327/leetcode-projects/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/hadi327/leetcode-projects/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/hadi327/leetcode-projects/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/hadi327/leetcode-projects/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/hadi327/leetcode-projects/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hadi327/leetcode-projects/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/hadi327/leetcode-projects/tree/master/1406-stone-game-iii) |
@@ -489,6 +490,7 @@
 | [0064-minimum-path-sum](https://github.com/hadi327/leetcode-projects/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/hadi327/leetcode-projects/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/hadi327/leetcode-projects/tree/master/1254-number-of-closed-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hadi327/leetcode-projects/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -796,6 +798,7 @@
 | [0753-cracking-the-safe](https://github.com/hadi327/leetcode-projects/tree/master/0753-cracking-the-safe) |
 | [0872-leaf-similar-trees](https://github.com/hadi327/leetcode-projects/tree/master/0872-leaf-similar-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/hadi327/leetcode-projects/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/hadi327/leetcode-projects/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hadi327/leetcode-projects/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2097-valid-arrangement-of-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2097-valid-arrangement-of-pairs) |
@@ -822,6 +825,7 @@
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/hadi327/leetcode-projects/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/hadi327/leetcode-projects/tree/master/1254-number-of-closed-islands) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/hadi327/leetcode-projects/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -848,6 +852,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/hadi327/leetcode-projects/tree/master/1254-number-of-closed-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
