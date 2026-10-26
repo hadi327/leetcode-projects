@@ -138,6 +138,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/hadi327/leetcode-projects/tree/master/3454-separate-squares-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hadi327/leetcode-projects/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -496,6 +497,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/hadi327/leetcode-projects/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
@@ -803,6 +805,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2097-valid-arrangement-of-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2097-valid-arrangement-of-pairs) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -830,6 +833,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/hadi327/leetcode-projects/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/hadi327/leetcode-projects/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -854,6 +858,7 @@
 | [0547-number-of-provinces](https://github.com/hadi327/leetcode-projects/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/hadi327/leetcode-projects/tree/master/1254-number-of-closed-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
 |  |
 | ------- |
