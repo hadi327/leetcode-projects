@@ -248,6 +248,7 @@
 | [2485-find-the-pivot-integer](https://github.com/hadi327/leetcode-projects/tree/master/2485-find-the-pivot-integer) |
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
 | [2607-make-k-subarray-sums-equal](https://github.com/hadi327/leetcode-projects/tree/master/2607-make-k-subarray-sums-equal) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/hadi327/leetcode-projects/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hadi327/leetcode-projects/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -452,6 +453,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/hadi327/leetcode-projects/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2352-equal-row-and-column-pairs) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/hadi327/leetcode-projects/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/hadi327/leetcode-projects/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hadi327/leetcode-projects/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
