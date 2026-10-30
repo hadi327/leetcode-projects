@@ -214,6 +214,7 @@
 | [2398-maximum-number-of-robots-within-budget](https://github.com/hadi327/leetcode-projects/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/hadi327/leetcode-projects/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/hadi327/leetcode-projects/tree/master/2542-maximum-subsequence-score) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hadi327/leetcode-projects/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hadi327/leetcode-projects/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -847,6 +849,7 @@
 | [2097-valid-arrangement-of-pairs](https://github.com/hadi327/leetcode-projects/tree/master/2097-valid-arrangement-of-pairs) |
 | [3310-remove-methods-from-project](https://github.com/hadi327/leetcode-projects/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hadi327/leetcode-projects/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -865,6 +868,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/hadi327/leetcode-projects/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/hadi327/leetcode-projects/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
