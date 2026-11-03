@@ -141,6 +141,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hadi327/leetcode-projects/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/hadi327/leetcode-projects/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hadi327/leetcode-projects/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hadi327/leetcode-projects/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/hadi327/leetcode-projects/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
@@ -256,6 +257,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hadi327/leetcode-projects/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/hadi327/leetcode-projects/tree/master/3536-maximum-product-of-two-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hadi327/leetcode-projects/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hadi327/leetcode-projects/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hadi327/leetcode-projects/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
