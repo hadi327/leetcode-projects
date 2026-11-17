@@ -362,6 +362,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/hadi327/leetcode-projects/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/hadi327/leetcode-projects/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2390-removing-stars-from-a-string](https://github.com/hadi327/leetcode-projects/tree/master/2390-removing-stars-from-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hadi327/leetcode-projects/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hadi327/leetcode-projects/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
@@ -644,6 +645,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hadi327/leetcode-projects/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hadi327/leetcode-projects/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hadi327/leetcode-projects/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -711,6 +713,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hadi327/leetcode-projects/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hadi327/leetcode-projects/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/hadi327/leetcode-projects/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hadi327/leetcode-projects/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
