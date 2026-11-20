@@ -138,6 +138,7 @@
 | [2601-prime-subtraction-operation](https://github.com/hadi327/leetcode-projects/tree/master/2601-prime-subtraction-operation) |
 | [2607-make-k-subarray-sums-equal](https://github.com/hadi327/leetcode-projects/tree/master/2607-make-k-subarray-sums-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hadi327/leetcode-projects/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hadi327/leetcode-projects/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hadi327/leetcode-projects/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hadi327/leetcode-projects/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -194,6 +195,7 @@
 | [2607-make-k-subarray-sums-equal](https://github.com/hadi327/leetcode-projects/tree/master/2607-make-k-subarray-sums-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hadi327/leetcode-projects/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hadi327/leetcode-projects/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hadi327/leetcode-projects/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hadi327/leetcode-projects/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hadi327/leetcode-projects/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hadi327/leetcode-projects/tree/master/3731-find-missing-elements) |
@@ -646,6 +648,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/hadi327/leetcode-projects/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2407-longest-increasing-subsequence-ii](https://github.com/hadi327/leetcode-projects/tree/master/2407-longest-increasing-subsequence-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/hadi327/leetcode-projects/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hadi327/leetcode-projects/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3213-construct-string-with-minimum-cost](https://github.com/hadi327/leetcode-projects/tree/master/3213-construct-string-with-minimum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hadi327/leetcode-projects/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hadi327/leetcode-projects/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
