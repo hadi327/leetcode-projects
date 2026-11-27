@@ -159,6 +159,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/hadi327/leetcode-projects/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hadi327/leetcode-projects/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/hadi327/leetcode-projects/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/hadi327/leetcode-projects/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/hadi327/leetcode-projects/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Sorting
@@ -405,6 +406,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hadi327/leetcode-projects/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hadi327/leetcode-projects/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/hadi327/leetcode-projects/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/hadi327/leetcode-projects/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Linked List
 |  |
 | ------- |
@@ -659,6 +661,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/hadi327/leetcode-projects/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hadi327/leetcode-projects/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3826-minimum-partition-score](https://github.com/hadi327/leetcode-projects/tree/master/3826-minimum-partition-score) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/hadi327/leetcode-projects/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3956-maximum-sum-of-m-non-overlapping-subarrays-i](https://github.com/hadi327/leetcode-projects/tree/master/3956-maximum-sum-of-m-non-overlapping-subarrays-i) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/hadi327/leetcode-projects/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Game Theory
